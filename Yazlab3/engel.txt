@@ -1,0 +1,13 @@
+##### WRITING TO MAZE #####
+[B : Barrier] - [S : Start] - [E : Ending] 
+
+S 0 0 0 0 0 0 0 B 0 
+B 0 B B 0 0 B B 0 0 
+0 0 0 0 0 0 B 0 B 0 
+0 0 0 B B 0 0 0 0 0 
+0 B B 0 0 0 0 0 0 0 
+B B B 0 B 0 0 B 0 B 
+0 0 0 0 0 B 0 B 0 B 
+B 0 0 B 0 B B 0 B B 
+0 0 0 0 0 0 0 0 0 0 
+0 B 0 0 B B 0 0 E 0 
